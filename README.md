@@ -27,7 +27,7 @@ Try these steps:
 git clone https://github.com/shimodii/memoritive.git
 cd memoritive
 chmod +x memoritive.sh
-./memoritive
+./memoritive.sh
 ```
 
 # Collaboration :D
